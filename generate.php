@@ -1,6 +1,6 @@
 <?php
 include ('config.php');
-$myfile = fopen("/var/www/random/random.m3u", "w") or die("Unable to open file!");
+$myfile = fopen("random.m3u", "w") or die("Unable to open file!");
 $mainline = 
 "#EXTM3U \n";
  
