@@ -16,8 +16,8 @@ To Do
 ```
 
 1. Add remove links
-2. Add Catagorys
+2. Add Catagorys - to be released
 3. Add Picon
-4. Generate UserBouqets for Enigma 2
-5. Generate XML (only possible depends on demand)
+4. Generate UserBouqets for Enigma 2 - Done but to be released
+5. Generate XML (only possible depends on demand)- Looking for formatting layout that will work for most.
 6. Intergrate a User system so multiple users can use it
